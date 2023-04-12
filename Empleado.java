@@ -5,6 +5,10 @@
  * Esta clase la utilizo para documentar con Javadoc
  * 
  */
+
+ /**
+  * @see <a href = "http://www.aprenderaprogramar.com" /> aprenderaprogramar.com – Didáctica en programación </a>
+  */
 package ies;
 
 public class Empleado {
