@@ -1,2 +1,2 @@
 # Actividad-4.1
-Desde la nube oara sincronizar con proyecto local
+Desde la nube para sincronizar con proyecto local
