@@ -1,3 +1,10 @@
+/**
+ * @author Luis Jerez
+ * @version 0.0.3
+ * 
+ * Esta clase la utilizo para documentar con Javadoc
+ * 
+ */
 package ies;
 
 public class Empleado {
